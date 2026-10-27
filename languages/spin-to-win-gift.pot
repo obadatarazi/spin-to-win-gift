@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Spin to Win Gift 2.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-28 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Cursor\n"
+"X-Domain: spin-to-win-gift\n"
+
+msgid "Spin to Win Gift"
+msgstr ""
+
+msgid "Spin to Win"
+msgstr ""
+
+msgid "Spin the Wheel"
+msgstr ""
+
+msgid "Claim My Gift"
+msgstr ""
+
+msgid "Spin to Win a Free Gift!"
+msgstr ""
+
+msgid "Spin & Win"
+msgstr ""
+
+msgid "Preview your colors before saving."
+msgstr ""
+
+msgid "Congrats! You won a free gift."
+msgstr ""
+
+msgid "Spin the wheel to claim your free gift."
+msgstr ""
+
+msgid "No eligible gifts are available at this time."
+msgstr ""
+
+msgid "No gift found. Please spin first."
+msgstr ""
+
+msgid "Please enter a valid email address to claim your gift."
+msgstr ""
+
+msgid "Please enter a valid email address before spinning the wheel."
+msgstr ""
+
+msgid "Please enter your email address."
+msgstr ""
+
+msgid "Complete your billing details first"
+msgstr ""
+
+msgid "Go to billing details"
+msgstr ""
+
+msgid "Your gift \"%s\" has been added to the cart."
+msgstr ""
+
+msgid "You spun the wheel. Your gift is:"
+msgstr ""
+
+msgid "Your gift has been added:"
+msgstr ""
+
+msgid "No gift claim is needed for this result."
+msgstr ""
+
+msgid "Something went wrong. Please refresh and try again."
+msgstr ""
+
+msgid "Wheel Campaigns"
+msgstr ""
+
+msgid "Add Wheel"
+msgstr ""
+
+msgid "Wheel Name"
+msgstr ""
+
+msgid "Enable this wheel"
+msgstr ""
+
+msgid "Cart Total Range (£)"
+msgstr ""
+
+msgid "Priority"
+msgstr ""
+
+msgid "Priority %s"
+msgstr ""
+
+msgid "Schedule"
+msgstr ""
+
+msgid "Setup"
+msgstr ""
+
+msgid "Prizes"
+msgstr ""
+
+msgid "Wheel Label"
+msgstr ""
+
+msgid "Chance"
+msgstr ""
+
+msgid "Chance is calculated from the weights in this wheel."
+msgstr ""
+
+msgid "Eligibility and Boost Rules"
+msgstr ""
+
+msgid "Customer Type"
+msgstr ""
+
+msgid "Any customer"
+msgstr ""
+
+msgid "First order only"
+msgstr ""
+
+msgid "Returning customers only"
+msgstr ""
+
+msgid "Required Coupon"
+msgstr ""
+
+msgid "Rules"
+msgstr ""
+
+msgid "Colors"
+msgstr ""
+
+msgid "Click the preview to jump to a color, or adjust the fields below."
+msgstr ""
+
+msgid "Wheel"
+msgstr ""
+
+msgid "Popup"
+msgstr ""
+
+msgid "Buttons"
+msgstr ""
+
+msgid "Message banner"
+msgstr ""
+
+msgid "Wheel Section Colors"
+msgstr ""
+
+msgid "Pick the wheel slice colors. They repeat automatically if the wheel has more prizes."
+msgstr ""
+
+msgid "Analytics"
+msgstr ""
+
+msgid "Import / Export"
+msgstr ""
+
+msgid "Search product…"
+msgstr ""
+
+msgid "At least one wheel campaign is required."
+msgstr ""
+
+msgid "New Wheel"
+msgstr ""
+
+msgid "Active"
+msgstr ""
+
+msgid "Inactive"
+msgstr ""
+
+msgid "No gifts added yet."
+msgstr ""
+
+msgid "Better luck next time"
+msgstr ""
+
+msgid "No boost rules yet."
+msgstr ""

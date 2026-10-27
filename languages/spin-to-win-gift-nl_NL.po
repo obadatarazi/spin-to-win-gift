@@ -1,0 +1,189 @@
+# Dutch translations for Spin to Win Gift.
+# Copyright (C) 2026
+# This file is distributed under the same license as the Spin to Win Gift package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Spin to Win Gift 2.2.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-04-28 00:00+0000\n"
+"PO-Revision-Date: 2026-05-12 00:00+0000\n"
+"Last-Translator: \n"
+"Language-Team: Dutch\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Cursor\n"
+"X-Domain: spin-to-win-gift\n"
+
+msgid "Spin to Win Gift"
+msgstr "Draai en win cadeau"
+
+msgid "Spin to Win"
+msgstr "Draai om te winnen"
+
+msgid "Spin the Wheel"
+msgstr "Draai aan het wiel"
+
+msgid "Claim My Gift"
+msgstr "Claim mijn cadeau"
+
+msgid "Spin to Win a Free Gift!"
+msgstr "Draai en win een gratis cadeau!"
+
+msgid "Spin & Win"
+msgstr "Draai & win"
+
+msgid "Preview your colors before saving."
+msgstr "Bekijk je kleuren voordat je opslaat."
+
+msgid "Congrats! You won a free gift."
+msgstr "Gefeliciteerd! Je hebt een gratis cadeau gewonnen."
+
+msgid "Spin the wheel to claim your free gift."
+msgstr "Draai aan het wiel om je gratis cadeau te claimen."
+
+msgid "No eligible gifts are available at this time."
+msgstr "Er zijn momenteel geen geschikte cadeaus beschikbaar."
+
+msgid "No gift found. Please spin first."
+msgstr "Geen cadeau gevonden. Draai eerst aan het wiel."
+
+msgid "Please enter a valid email address to claim your gift."
+msgstr "Voer een geldig e-mailadres in om je cadeau te claimen."
+
+msgid "Please enter a valid email address before spinning the wheel."
+msgstr "Voer een geldig e-mailadres in voordat je aan het wiel draait."
+
+msgid "Please enter your email address."
+msgstr "Voer je e-mailadres in."
+
+msgid "Your gift \"%s\" has been added to the cart."
+msgstr "Je cadeau \"%s\" is toegevoegd aan de winkelwagen."
+
+msgid "You spun the wheel. Your gift is:"
+msgstr "Je hebt aan het wiel gedraaid. Je cadeau is:"
+
+msgid "Your gift has been added:"
+msgstr "Je cadeau is toegevoegd:"
+
+msgid "No gift claim is needed for this result."
+msgstr "Voor dit resultaat hoef je geen cadeau te claimen."
+
+msgid "Something went wrong. Please refresh and try again."
+msgstr "Er ging iets mis. Vernieuw de pagina en probeer het opnieuw."
+
+msgid "Wheel Campaigns"
+msgstr "Wielcampagnes"
+
+msgid "Add Wheel"
+msgstr "Wiel toevoegen"
+
+msgid "Wheel Name"
+msgstr "Wielnaam"
+
+msgid "Enable this wheel"
+msgstr "Dit wiel inschakelen"
+
+msgid "Cart Total Range (£)"
+msgstr "Bereik winkelwagentotaal (£)"
+
+msgid "Priority"
+msgstr "Prioriteit"
+
+msgid "Priority %s"
+msgstr "Prioriteit %s"
+
+msgid "Schedule"
+msgstr "Planning"
+
+msgid "Setup"
+msgstr "Instellingen"
+
+msgid "Prizes"
+msgstr "Prijzen"
+
+msgid "Wheel Label"
+msgstr "Wiellabel"
+
+msgid "Chance"
+msgstr "Kans"
+
+msgid "Chance is calculated from the weights in this wheel."
+msgstr "De kans wordt berekend op basis van de gewichten in dit wiel."
+
+msgid "Eligibility and Boost Rules"
+msgstr "Geschiktheid en boostregels"
+
+msgid "Customer Type"
+msgstr "Klanttype"
+
+msgid "Any customer"
+msgstr "Elke klant"
+
+msgid "First order only"
+msgstr "Alleen eerste bestelling"
+
+msgid "Returning customers only"
+msgstr "Alleen terugkerende klanten"
+
+msgid "Required Coupon"
+msgstr "Vereiste kortingscode"
+
+msgid "Rules"
+msgstr "Regels"
+
+msgid "Colors"
+msgstr "Kleuren"
+
+msgid "Click the preview to jump to a color, or adjust the fields below."
+msgstr "Klik op het voorbeeld om naar een kleur te gaan, of pas de velden hieronder aan."
+
+msgid "Wheel"
+msgstr "Wiel"
+
+msgid "Popup"
+msgstr "Pop-up"
+
+msgid "Buttons"
+msgstr "Knoppen"
+
+msgid "Message banner"
+msgstr "Berichtbanner"
+
+msgid "Wheel Section Colors"
+msgstr "Kleuren wielsegmenten"
+
+msgid "Pick the wheel slice colors. They repeat automatically if the wheel has more prizes."
+msgstr "Kies de kleuren van de wielsegmenten. Ze worden automatisch herhaald als het wiel meer prijzen heeft."
+
+msgid "Analytics"
+msgstr "Statistieken"
+
+msgid "Import / Export"
+msgstr "Importeren / exporteren"
+
+msgid "Search product…"
+msgstr "Zoek product…"
+
+msgid "At least one wheel campaign is required."
+msgstr "Er is minstens één wielcampagne vereist."
+
+msgid "New Wheel"
+msgstr "Nieuw wiel"
+
+msgid "Active"
+msgstr "Actief"
+
+msgid "Inactive"
+msgstr "Inactief"
+
+msgid "No gifts added yet."
+msgstr "Nog geen cadeaus toegevoegd."
+
+msgid "Better luck next time"
+msgstr "Beter geluk volgende keer"
+
+msgid "No boost rules yet."
+msgstr "Nog geen boostregels."
